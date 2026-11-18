@@ -1,0 +1,19 @@
+# Data downloaded at runtime
+data/
+*.tsv
+*.parquet
+cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
